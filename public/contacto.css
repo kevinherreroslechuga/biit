@@ -1,0 +1,362 @@
+
+body{
+  background-color: black;
+}
+.container-foto{
+  width: 100%;
+  height: 50%;
+  object-fit: cover;
+}
+
+.container-tit{
+  text-align: center;
+  background-color: #e42313;
+  width: 100%;
+  padding: 20px;
+  min-height: 50px;
+  margin-top:auto;
+}
+
+h1{
+  color: rgb(206, 23, 23);
+  font-size: 3.5rem;
+  font-family: "Teko", sans-serif;
+  min-width: 250px;
+  margin-top:auto;
+
+}
+h2{
+  color: white;
+  font-size: 3.5rem;
+  font-family: "Teko", sans-serif;
+  min-width: 250;
+}
+
+.container-txt1{
+  text-align: center;
+  background-color: #231e1e;
+  width: 100%;
+  padding: 20px;
+  min-height: 250px;
+  margin-top:auto
+
+}
+#iconf{
+  font-size: 5vw;
+}
+.text1 ,h4{
+  color: white;
+  font-size: 2rem;
+  font-family: 'Teko', sans-serif;
+  line-height: 1.5s;
+  margin-top: 30px;
+  flex-wrap: wrap;
+  min-width: 250px;
+}
+
+#col-img1{
+  margin-top: 30px;
+  object-fit: cover;
+  width: 50%;
+  max-width: 100%;
+}
+
+#col-txt1{
+  margin-top: 100px;
+  max-width: 100%;
+  object-fit: cover;
+
+}
+
+#col-txt1 h1{
+  font-family: 'Teko', sans-serif;
+  color: #e42313;
+  font-size: 3rem;
+  text-decoration: underline;
+}
+
+#col-txt1 p{
+  margin-top: 10px;
+  font-family: 'Teko', sans-serif;
+  color:black;
+  font-size: 1.5rem;
+}
+
+#col-txt1, h3{
+  margin-top: 50px;
+  font-family: 'Teko', sans-serif;
+  color:rgb(243, 4, 4);
+  font-size: 3.5rem;
+  text-decoration: underline;
+}
+
+
+#col-img2{
+  object-fit: cover;
+  width: 50%;
+  max-width: 100%;
+}
+
+#col-txt2{
+  margin-top: 100px;
+  max-width: 100%;
+  object-fit: cover;
+}
+
+#col-txt2 h1{
+  font-family: 'Teko', sans-serif;
+  color: #e42313;
+  font-size: 3rem;
+  text-decoration: underline;
+}
+
+#col-txt2 p{
+  margin-top: 30px;
+  font-family: 'Teko', sans-serif;
+  color:black;
+  font-size: 1.5rem;
+}
+
+#btn-cont{
+  margin-left: 25%;
+  margin-right: 50%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  font-family: 'Teko', sans-serif;
+  font-size: 2rem;
+  background-color:#090909;  
+  border-bottom: #000000;
+  width: 50%;
+
+}
+
+#btn-2:hover {
+  background:#0b0b0b; 
+  box-shadow: 0 0 10px #000000, 0 0 40px #000000, 0 0 80px #000000;
+}
+
+
+.navbar-after {
+  content: " ";
+  display: block;
+  height: 9px;
+  background: #e42313;
+  width: 100%;
+  left: 100%;
+  top: calc(50% - 2px);
+}
+
+
+  #redes {
+    background-color: black;
+  }
+
+
+  .btn:hover {
+    background: rgb(0, 0, 0); 
+    box-shadow: 0 0 10px rgb(0, 0, 0), 0 0 40px rgb(252, 10, 10), 0 0 80px rgb(2, 2, 2);
+  
+  }
+
+  .sheSwimm{
+    width: 100%;
+    height: 500px;
+    background-image: url("https://i.ibb.co/X2Q0Kt6/PERRITO2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+#principalcont{
+  width: 100%;
+  height: 556px;
+  background-image: url("https://i.ibb.co/gR09xqT/Whats-App-Image-2022-10-13-at-1-57-07-PM.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  object-fit: cover;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+
+}
+.pwhite{
+  font-family: 'Teko', sans-serif;
+  color: #ffffff;
+  font-size: 35px;
+  padding: 10px;
+}
+.pwhitee{
+  font-family: 'Teko', sans-serif;
+  color: #ffffff;
+  font-size: 35px;
+  padding: 10px;
+}
+
+.parr{
+  font-family: 'Teko', sans-serif;
+  color: black;
+  font-size:3vw;
+  
+}
+#imgfinal{
+  width: 100%;
+  height: 700px;
+  background-image: url("https://i.ibb.co/X4672pd/Whats-App-Image-2022-10-13-at-1-57-08-PM-9.jpg");
+background-repeat: no-repeat;
+background-position: center center;
+background-size: cover;
+object-fit: cover;
+}
+
+#contenedor1{
+  height: 500px;
+  padding:100px;
+  align-items: center;
+  justify-content: center center;
+  background-color:#ff00008e;
+  
+}
+form{
+  max-width:100%;
+  font-family: 'Teko', sans-serif;
+  color: black;
+  background:  #000000b5;
+  font-size:2rem;
+  margin:17vh auto 0 auto;
+  padding : 40px;
+  border-radius: 3px;
+  box-sizing: border-box;
+}
+h5{
+  margin:0;
+  text-align:center;
+  font-size: 2.3rem;
+  font-family: 'Teko', sans-serif;
+  color: #ffffff;
+  font-size: 35px;
+  color: #e42313;
+  font-size: 3.5rem;
+  font-family: "Teko", sans-serif;
+
+}
+#namel,#emaill,#phonel,#asuntol,#messagel,#checkl{
+  font-family: 'Teko', sans-serif;
+  color: #ffffff;
+  font-size: 30px;
+
+}
+label{
+  display:block;
+  margin:20px 0;
+  color: #000000;
+}
+
+input, textarea{
+  width:100%;
+  padding: 10px;
+  box-sizing: border-box;
+  outline: none;
+  resize: none;
+  border: none;
+  border-bottom:1px solid #000000; 
+}
+ input[type= "text"]:focus, textarea:focus{
+  border-bottom: 1px solid #e42313(255, 0, 106);
+ }
+
+ textarea::-webkit-scrollbar{
+  width:4px;
+ }
+
+ textarea::-webkit-scrollbar-thumb{
+  background-color: rgb(0, 0, 0);
+ }
+
+.center{
+  text-align:center;
+}
+
+input[type="submitf"]{
+margin-top:30px;
+width:90;
+max-width:200px;
+ background:linear-gradient(to right, #000000, #000000(255,67,61));
+ color: #000000;
+ font-size:17px;
+ cursor: pointer;
+ border-radius:3px;
+}
+
+.error{
+  color:rgb(209, 209, 232);
+  font-family: 'Teko', sans-serif;
+  font-size: 30px;
+  padding: 10px;
+  font-size: 30px;
+  padding: 10px;
+}
+
+.error-border{
+  border-bottom: 1px solid #e42313;
+}
+
+#Envio exitoso{
+  color:#28a745;
+}
+
+#lastBtn{
+  font-family: 'Teko', sans-serif;
+  color: #ffffff;
+  font-size: 30px;
+  padding: 10px;
+  width: 200px;
+}
+#botonMember{
+  font-family: 'Teko', sans-serif;
+  color: #ffffff;
+  font-size: 30px;
+  padding: 10px;
+  width: 200px;
+}
+
+#recuadro{
+  text-align: center;
+  background-color:#e42313;
+  opacity: 0.80;
+  height: 350px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  text-align: center;
+  border-radius:50px 50px 50px 50px;
+}
+
+#lastBtn{
+  background-color: #000000;
+}
+
+#recuadro2{
+  text-align: center;
+  background-color:#e42313;
+  opacity: 0.80;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  border-radius:50px 50px 50px 50px;
+}
+
+
+
+#imgfinal:hover {
+  color: rgb(255, 255, 255);
+  padding: 5px;
+  font-size: 1.1rem;
+  text-align: center;
+  box-shadow: 0 0 10px red, 0 0 40px red, 0 0 80px red;
+  justify-content: center;
+  align-items: center;
+}

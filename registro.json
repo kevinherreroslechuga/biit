@@ -1,0 +1,60 @@
+{
+  "page": 1,
+  "total_pages": 2,
+  "data": [
+    {
+      "id": 1,
+      "email": "elizabeth@gmail.com",
+      "first_name": "Elizabeth",
+      "last_name": "Crisóstomo",
+      "movil": "5615558535",
+      "state": "Edo. México",
+      "password": "12345678",
+      "avatar": "https://i.ibb.co/gdQm0vJ/Eli.jpg"
+    },
+    {
+      "id": 2,
+      "email": "jessi@gmail.com",
+      "first_name": "Jessi",
+      "last_name": "Weaver",
+      "movil": "5615558535",
+      "state": "Edo. México",
+      "city": "Tlalnepantla",
+      "password": "12345678",
+      "avatar": "https://i.ibb.co/qjxnNxC/jessi.jpg"
+    },
+    {
+      "id": 3,
+      "email": "kevin@gmail.com",
+      "first_name": "Kevin",
+      "last_name": "Holt",
+      "movil": "5614568536",
+      "state": "CDMX",
+      "city": "Gustavo Amadero",
+      "password": "12345678",
+      "avatar": "https://i.ibb.co/FYkKH68/kevin.jpg"
+    },
+    {
+      "id": 4,
+      "email": "rodrigo@gmail.com",
+      "first_name": "Rodrigo",
+      "last_name": "Morris",
+      "movil": "5614568536",
+      "state": "Yucatan",
+      "city": "Flores",
+      "password": "12345678",
+      "avatar": "https://i.ibb.co/QbmxwsQ/rodrigo.jpg"
+    },
+    {
+      "id": 5,
+      "email": "ramon@gmail.com",
+      "first_name": "Ramon",
+      "last_name": "Morris",
+      "movil": "5614568536",
+      "state": "Yucatan",
+      "city": "Flores",
+      "password": "12345678",
+      "avatar": "https://i.ibb.co/QbmxwsQ/rodrigo.jpg"
+    }
+  ]
+}
